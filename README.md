@@ -3,6 +3,9 @@
 
 ## 🎬 Demo
 
+![Robot](media/robot.png)  
+*Robot, you can see all the specified elements*
+
 ![Web UI](media/web_control.png)  
 *Web interface for live video + driving controls*
 
